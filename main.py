@@ -1,4 +1,3 @@
-
 from src.game import Game
 
 def main() -> None:
